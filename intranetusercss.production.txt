@@ -1,4 +1,4 @@
-/* KOHA > * (all pages) */
+/* KOHA > * (all pages) */ xx
   /* Disable firefox screenshots */
     #firefox-screenshots-preselection-iframe {display: none !important;}
   /* Remove old logo */
